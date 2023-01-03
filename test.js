@@ -15,5 +15,3 @@ function Vartest(){
     console.log(x);
   }
   
-  Vartest();
-  Lettest();
